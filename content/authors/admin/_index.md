@@ -3,7 +3,8 @@
 title: 윤혜민
 
 # ProfileImage
-avatar: "C:\Users\삼성노트북\Desktop\OSS24-2\Hyemin-Youn.github.io\content\authors\admin\avatar.jpg"
+avatar: 
+-url: C:\Users\삼성노트북\Desktop\OSS24-2\Hyemin-Youn.github.io\content\authors\admin\avatar.jpg
 # Is this the primary user of the site?
 superuser: true
 
