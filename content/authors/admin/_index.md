@@ -13,7 +13,7 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
+organizations:
 - name: Jeonbuk National University
 url: https://www.jbnu.ac.kr/kor/
 
@@ -22,13 +22,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #interests:
 #- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+
 
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
+#    institution: Jeonbuk National University
 #    year: 2012
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
