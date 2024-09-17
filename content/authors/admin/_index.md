@@ -44,8 +44,7 @@ Social/Academic Networking:
       icon_pack: fab
       link: https://hyemin-youn.github.io/about/
 
-skills:
--name: Technical Skills
+Technical Skills:
   items:
     - name: Python
         description: ''
