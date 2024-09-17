@@ -86,7 +86,7 @@ languages:
     percent: 25
   
   
-  
+  ---
   Hyemin Youn is a student of Jeonbuk National University in Jeonju, Korea. Her major is Political Science and Diplomacy and also Computer Engineering. She is currently learning web service design.
 
 
