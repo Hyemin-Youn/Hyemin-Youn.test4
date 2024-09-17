@@ -18,7 +18,7 @@ organizations:
   url: https://www.jbnu.ac.kr/kor/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 interests:
 - Artificial Intelligence
@@ -30,10 +30,10 @@ education:
     year: 2021-03-02 ~
 
 
-#Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+Social/Academic Networking
+For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+   form "mailto:your-email@example.com" or "#contact" for contact widget.
 contacts:
   - icon: envelope
     icon_pack: fas
@@ -42,8 +42,8 @@ contacts:
     icon_pack: fab
     link: https://hyemin-youn.github.io/about/
 
-
+---
 comments:
-- Hyemin Youn is a student of Jeonbuk National University in Jeonju, Korea. Her major is Political Science and Diplomacy and also Computer Engineering. She is currently learning web service design.
+ Hyemin Youn is a student of Jeonbuk National University in Jeonju, Korea. Her major is Political Science and Diplomacy and also Computer Engineering. She is currently learning web service design.
 
 
