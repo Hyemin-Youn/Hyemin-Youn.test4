@@ -2,7 +2,7 @@
 # Display name
 title: 윤혜민
 
-ProfileImage
+# ProfileImage
 avatar: "/admin/new_avatar.jpg"
 
 # Is this the primary user of the site?
