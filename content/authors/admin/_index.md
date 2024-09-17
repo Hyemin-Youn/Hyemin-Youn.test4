@@ -47,17 +47,17 @@ Social/Academic Networking:
 Technical Skills:
   items:
     - name: Python
-        description: ''
-        percent: 60
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 60
-        icon: devicon/rstudio
-      - name: C
-        description: ''
-        percent: 60
-        icon: devicon/C
+      description: ''
+      percent: 60
+      icon: devicon/python
+    - name: RStudio
+      description: ''
+      percent: 60
+      icon: devicon/rstudio
+    - name: C
+      description: ''
+      percent: 60
+      icon: devicon/C
 
 Hobbies:
 - name: Hobbies
