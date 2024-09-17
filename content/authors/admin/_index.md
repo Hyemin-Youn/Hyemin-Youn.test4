@@ -26,7 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 education:
   courses:
-  - course: computer science and engineering, political science
+  - course: computer science and engineering, political science (bacheler's degree)
     institution: Jeonbuk National University
     year: 2021-03-02 ~
 
