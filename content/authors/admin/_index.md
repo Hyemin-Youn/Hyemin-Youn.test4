@@ -35,14 +35,16 @@ education:
 #    For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #    form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-Social/Academic Networking:
-  contacts:
-    - icon: envelope
-      icon_pack: fas
-      link: https://hyemin9973@gmail.com/
-    - icon: github
-      icon_pack: fab
-      link: https://hyemin-youn.github.io/about/
+profiles:
+  - icon: at-symbol
+    url: 'mailto:hyemin9973@gmail.com'
+    label: E-mail Me
+  - icon: brands/github
+    url: https://hyemin-youn.github.io/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/or-ange-567b122b7/
+  - icon: brands/instagram
+    url: https://www.instagram.com/yunemin/
 
 Technical Skills:
   items:
@@ -60,9 +62,9 @@ Technical Skills:
       icon: devicon/C
 
 Hobbies:
-- name: Hobbies
-color: '#eeac02'
-color_border: '#f0bf23'
+  - name: Hobbies
+  color: '#eeac02'
+  color_border: '#f0bf23'
   items:
     - name: listening to music
         description: ''
@@ -78,7 +80,6 @@ color_border: '#f0bf23'
         icon: camera
 
 languages:
-  categories:
   - name: Korean
     percent: 100
   - name: English
