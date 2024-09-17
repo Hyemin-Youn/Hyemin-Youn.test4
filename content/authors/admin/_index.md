@@ -30,17 +30,19 @@ education:
     year: 2021-03-02 ~
 
 
-Social/Academic Networking
-For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-   form "mailto:your-email@example.com" or "#contact" for contact widget.
-contacts:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' For a direct email link, use "mailto:hyemin9973@gmail.com".
-  - icon: github
-    icon_pack: fab
-    link: https://hyemin-youn.github.io/about/
+
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#    For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#    form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+Social/Academic Networking:
+  contacts:
+    - icon: envelope
+      icon_pack: fas
+      link: https://hyemin9973@gmail.com/
+    - icon: github
+      icon_pack: fab
+      link: https://hyemin-youn.github.io/about/
 
 ---
 comments:
