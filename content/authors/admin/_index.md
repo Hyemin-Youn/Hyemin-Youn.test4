@@ -20,8 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
+interests:
+Artificial Intelligence
 
 
 education:
@@ -47,4 +47,4 @@ social:
 
 
 comments: 
-- Hyemin Youn is a student of Jeonbuk National University in Jeonju, Korea. Her major is Political Science and Diplomacy and also Computer Engineering. She is currently learning web service design.
+Hyemin Youn is a student of Jeonbuk National University in Jeonju, Korea. Her major is Political Science and Diplomacy and also Computer Engineering. She is currently learning web service design.
