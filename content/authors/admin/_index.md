@@ -2,6 +2,8 @@
 # Display name
 title: 윤혜민
 
+avatar : "/assets/avatar.jpg"
+
 # Is this the primary user of the site?
 superuser: true
 
