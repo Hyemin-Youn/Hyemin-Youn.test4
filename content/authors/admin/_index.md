@@ -3,7 +3,7 @@
 title: 윤혜민
 
 # ProfileImage
-avatar: "/admin/new_avatar.jpg"
+avatar: "/admin/avatar.jpg"
 
 # Is this the primary user of the site?
 superuser: true
