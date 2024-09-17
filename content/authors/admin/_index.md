@@ -6,7 +6,7 @@ title: 윤혜민
 superuser: true
 
 # Role/position
-role: ''
+role: 'student'
 
 # Status emoji
 status:
