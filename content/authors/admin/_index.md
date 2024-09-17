@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 윤혜민
+title: 윤혜만
 
 # ProfileImage
 avatar: "C:\Users\삼성노트북\Desktop\OSS24-2\Hyemin-Youn.github.io\content\authors\admin\avatar.jpg"
