@@ -87,7 +87,31 @@ languages:
   - name: Cheinese
     percent: 25
   
-  
+  experience:
+  - title: Computer Science and Engineering
+    company: Jeonbuk National University 
+    company_url: ''
+    company_logo: org-x
+    location: South Korea
+    date_start: '2021-03-02'
+    date_end: '2026-08'
+    description: |2-
+        * Python
+        * C++
+        * C
+
+  - title: Political Science and Diplomacy
+    company: Jeonbuk National University 
+    company_url: ''
+    company_logo: org-x
+    location: South Korea
+    date_start: '2021-03-02'
+    date_end: '2024-08-31'
+    description: American Politics, African Policitics, Political Methods
+
+design:
+  columns: '1'
+
   ---
   Hyemin Youn is a student of Jeonbuk National University in Jeonju, Korea. Her major is Political Science and Diplomacy and also Computer Engineering. She is currently learning web service design.
 
