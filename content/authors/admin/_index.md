@@ -78,6 +78,7 @@ color_border: '#f0bf23'
         icon: camera
 
 languages:
+  categories:
   - name: Korean
     percent: 100
   - name: English
