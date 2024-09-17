@@ -45,9 +45,9 @@ Social/Academic Networking:
       link: https://hyemin-youn.github.io/about/
 
 skills:
-  -name: Technical Skills
-    items:
-      - name: Python
+-name: Technical Skills
+  items:
+    - name: Python
         description: ''
         percent: 60
         icon: devicon/python
@@ -61,11 +61,11 @@ skills:
         icon: devicon/C
 
 Hobbies:
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: listening to music
+- name: Hobbies
+color: '#eeac02'
+color_border: '#f0bf23'
+  items:
+    - name: listening to music
         description: ''
         percent: 80
         icon: person-simple-walk
