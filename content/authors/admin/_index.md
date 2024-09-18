@@ -13,7 +13,7 @@ superuser: true
 role: 'student'
 
 # Status emoji
-status:
+status: 😃
   icon: ☕️
 
 # Organizations/Affiliations
